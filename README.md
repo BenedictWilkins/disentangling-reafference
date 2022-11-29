@@ -46,11 +46,13 @@ The directory `reafference` contains code that supports the notebooks, including
 
 We recommend trying GridWorld2D first, as this is least resource intensive and gives some good intuition about what is being learned.
 
+### Data & Models
 
+Data and pre-trained models can be found in the latest [release](https://github.com/BenedictWilkins/disentangling-reafference/releases) as binary files. They need to be downloaded, extracted and placed in their respective directories (see release description for further instructions).
 
 ### Reference
 
-If you use this code in any of your research please consider citing:
+If you use this code in any of your research please consider citing the work:
 
 ```
 @unpublished{wilkins_reafference_2023,
@@ -58,5 +60,6 @@ If you use this code in any of your research please consider citing:
   title  = {Disentangling Reafferent Effects by Doing Nothing}
 }
 ```
+(CITATION TO BE UPDATED AFTER THE CONFERENCE)
 
 The full paper will become avaliable in the proceedings of the AAAI 2023. A preprint is avaliable for attendees of the conference.

@@ -10,7 +10,7 @@ _An agent's ability to distinguish between sensory effects that are self-caused,
   <img src="https://user-images.githubusercontent.com/22711383/204519425-cb8217e8-a0f4-447c-adc4-85363c510938.png" />
 </p>
 
- - (a) shows the Freeway-v0 environment, in the which an agent controlled chicken attempts to cross a busy road. The chicken can move `forward`, `backward` or remain in place (`null`).
+ - (a) shows an observation from `Freeway-v0` environment. The agent (a chicken) is attempting to cross a busy road. The chicken can move `forward`, `backward` or remain in place (`null`).
  - (b) shows the ground truth effect of taking the action `forward` (`X - X'`).
  - (c) shows the predicted reafferent (self-caused) effect.
  - (d) shows the predicted exafferent (externally-caused) effect.

@@ -1,6 +1,6 @@
 # Disentangling Reafferent Effects by Doing Nothing
 
-Supplementary material for our paper __Disentangling Reafferent Effects by Doing Nothing__. 
+Supplementary material for __Disentangling Reafferent Effects by Doing Nothing__. 
 
 ### Abstract 
 

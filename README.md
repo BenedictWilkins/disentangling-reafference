@@ -6,19 +6,14 @@ Supplementary material for __Disentangling Reafferent Effects by Doing Nothing__
 
 _An agent's ability to distinguish between sensory effects that are self-caused, and those that are not, is instrumental in the achievement of its goals. This ability is thought to be central to a variety of functions in biological organisms, from perceptual stabilisation and accurate motor control, to higher level cognitive functions such as planning, mirroring and the sense of agency. Although many of these functions are well studied in AI, this important distinction is rarely made explicit and the focus tends to be on the associational relationship between action and sensory effect or success. Toward the development of more general agents, we develop a framework that enables agents to disentangle self-caused and externally caused sensory effects. Informed by relevant models and experiments in robotics, and in the biological and cognitive sciences, we demonstrate the general applicability of this framework through an extensive experimental evaluation over three different environments._
 
-
-Figure excerpt:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22711383/204519425-cb8217e8-a0f4-447c-adc4-85363c510938.png" />
 </p>
 
- -  shows the Freeway-v0 environment, in the which a chicken attempts to cross a busy road. The chicken can move `forward`, `backward` or remain in place (`null`).
- - shows the ground truth effect of taking the action `forward` (`X - X'`).
- - shows the predicted reafferent (self-caused) effect.
- -  shows the predicted exafferent (externally-caused) effect.
-
-
-
+ - (a) shows the Freeway-v0 environment, in the which an agent controlled chicken attempts to cross a busy road. The chicken can move `forward`, `backward` or remain in place (`null`).
+ - (b) shows the ground truth effect of taking the action `forward` (`X - X'`).
+ - (c) shows the predicted reafferent (self-caused) effect.
+ - (d) shows the predicted exafferent (externally-caused) effect.
 
 ### Technical appendix
 

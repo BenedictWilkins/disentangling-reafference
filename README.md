@@ -62,7 +62,7 @@ If you use this code in any of your research please consider citing the work:
 ```
 __CITATION TO BE UPDATED AFTER THE CONFERENCE__
 
-The full paper will become avaliable in the proceedings of the AAAI 2023. A preprint is avaliable for attendees of the conference.
+The full paper will become avaliable in the proceedings of AAAI 2023. A preprint is avaliable for attendees of the conference.
 
 
 

@@ -44,7 +44,7 @@ When opening a notebook file, choose the kernel `reaff`
 
 The directory `reafference` contains code that supports the notebooks, including model and environment definitions. Notebook files that contain experiments that are presented in the main body of the paper are marked with an * in their file name.
 
-We recommend trying GridWorld2D first, as this is least resource intensive and gives some good intuition about what is being learned.
+We recommend trying `*GridWorld2D-Example.ipynb` first, as this is least resource intensive and gives some good intuition about what is being learned.
 
 ### Data & Models
 

@@ -22,8 +22,8 @@ The technical appendix refered to in the paper is avaliable to <a id="raw-url" h
 ### Reproducability instructions
 
 To run experiments it is advised to create a fresh python environment.
-This can be done with [anaconda](https://www.anaconda.com/)
-After install anaconda your terminal should have a prefix like - `(base) NAME:DIR`
+This can be done with [anaconda](https://www.anaconda.com/).
+After installing anaconda your terminal should have a prefix like - `(base) NAME:DIR`
 
 Create a new conda environment:
 

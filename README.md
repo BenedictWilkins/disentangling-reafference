@@ -8,7 +8,7 @@ _An agent's ability to distinguish between sensory effects that are self-caused,
 
 ### Technical appendix
 
-The technical appendix refered to in the paper is avaliable to <a id="raw-url" href="https://raw.githubusercontent.com/BenedictWilkins/disentangling-reafference/main/technical-appendix.pdf">download</a>.
+The technical appendix refered to in the paper is avaliable to <a id="raw-url" href="https://raw.githubusercontent.com/BenedictWilkins/disentangling-reafference/main/technical-appendix.pdf">download</a>. We recommend taking a look as it gives some additional intuative examples, experiments and further details.
 
 ### Reproducability instructions
 
